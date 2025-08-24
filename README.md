@@ -115,9 +115,3 @@ DealNest is a modern, approachable digital platform connecting business buyers a
 - All data is static/dummy for demo
 - Accept/Reject and AI features are UI only (no backend)
 - Role-based navigation and content visibility
-
----
-
-## Contributing
-Pull requests and feedback are welcome!
-# dealnest-platform
